@@ -50,7 +50,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     it's just the Discord background URL, it has to be a direct link (ending with .png, .jpg, .gif)
     default : url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png') */
-    --background-url: url('https://i.pinimg.com/originals/6a/a6/2e/6aa62ebc0571fcef433c2fc99a5670f2.jpg');
+    --background-url: url('https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fr4xazqhvqx781.png');
     /*
     background color used for opacity
     default : 0, 0, 0 */
